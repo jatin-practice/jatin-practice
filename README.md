@@ -3,9 +3,9 @@
 <p align="center">
 <strong>Distributed Systems Architect</strong>
 <br/>
-18 Years Building Production Systems at Scale
+19 Years Building Production Systems at Scale
 <br/>
-Bangalore, India — Open to Fully Remote Roles
+Bangalore, India — Open to Remote/Hybrid Roles
 </p>
 
 <p align="center">
