@@ -16,7 +16,7 @@ Bangalore, India — Open to Remote/Hybrid Roles
 <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
 </a>
 <img src="https://img.shields.io/badge/Remote-Available%20Now-green?style=flat"/>
-<img src="https://img.shields.io/badge/Experience-18%20Years-orange?style=flat"/>
+<img src="https://img.shields.io/badge/Experience-19%20Years-orange?style=flat"/>
 </p>
 
 ---
