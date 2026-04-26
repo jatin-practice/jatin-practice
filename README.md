@@ -9,7 +9,7 @@ Bangalore, India — Open to Fully Remote Roles
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jatinkumarrout">
+<a href="https://linkedin.com/in/jatinkumarrout">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
 </a>
 <a href="mailto:jatin.practice@gmail.com">
@@ -228,7 +228,7 @@ Particularly interested in:
 - Network automation and IoT platforms
 
 <p align="center">
-<a href="https://linkedin.com/in/python-jatinrout">LinkedIn</a>
+<a href="https://linkedin.com/in/jatinkumarrout">LinkedIn</a>
 ·
 <a href="mailto:jatin.practice@gmail.com">Email</a>
 ·
